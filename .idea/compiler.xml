@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Aflevering2" />
+        <module name="Algorithm_Datastructures" />
+        <module name="CDIO1" />
+        <module name="Client_vegt" />
+        <module name="FTP-Client" />
+        <module name="matador" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Aflevering2" target="8" />
+      <module name="Algorithm_Datastructures" target="7" />
+      <module name="CDIO1" target="1.8" />
+      <module name="Client_vegt" target="7" />
+      <module name="FTP-Client" target="7" />
+      <module name="JDBCAflevering1" target="7" />
+      <module name="matador" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02327Aflevering2/Aflevering2.iml" filepath="$PROJECT_DIR$/02327Aflevering2/Aflevering2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_Datastructures/Algorithm_Datastructures.iml" filepath="$PROJECT_DIR$/Algorithm_Datastructures/Algorithm_Datastructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/All_projects_semester2.iml" filepath="$PROJECT_DIR$/.idea/All_projects_semester2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CDIO1/CDIO1.iml" filepath="$PROJECT_DIR$/CDIO1/CDIO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client_vegt/Client_vegt.iml" filepath="$PROJECT_DIR$/Client_vegt/Client_vegt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FTPClient/FTP-Client.iml" filepath="$PROJECT_DIR$/FTPClient/FTP-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCAflevering1/JDBCAflevering1.iml" filepath="$PROJECT_DIR$/JDBCAflevering1/JDBCAflevering1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matador/matador.iml" filepath="$PROJECT_DIR$/matador/matador.iml" />
+    </modules>
+  </component>
+</project>
